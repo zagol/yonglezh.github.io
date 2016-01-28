@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Mountain 小记
-categories:
+categories: private
 tags: 
 ---
 

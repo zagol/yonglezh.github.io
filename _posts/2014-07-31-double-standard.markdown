@@ -2,7 +2,7 @@
 title: 双重标准
 layout: post
 categories:
-tags:
+tags: idea
 comments: no
 
 ---

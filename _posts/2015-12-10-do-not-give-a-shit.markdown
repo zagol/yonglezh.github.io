@@ -1,7 +1,7 @@
 ---
 title: Why You Shouldn't Give a Shit
 layout: post
-tags: daily
+tags: idea
 comments: no
 ---
 

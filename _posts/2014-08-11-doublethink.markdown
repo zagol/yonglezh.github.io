@@ -1,7 +1,7 @@
 ---
 title: 双重思想
 layout: post
-tags: private
+tags: idea
 comments: no
 ---
 Just started writing. 
