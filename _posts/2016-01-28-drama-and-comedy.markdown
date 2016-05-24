@@ -54,6 +54,7 @@ tags: private
 * 《菜鸟间谍》(Spy)
 * 《生活大爆炸》(The Big Bang Theory)
 * 《老友记》(Friends)
+* 《香草天空》 (Vanilla Sky) - 有时候与真爱错过就在一念之差。
 
 还有一些个人喜欢的Stand Up Comedian，比如George Carlin, Ricky Gervais, Russell Peters, Bill Burr等等。
 
