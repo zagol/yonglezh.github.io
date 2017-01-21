@@ -55,7 +55,8 @@ tags: private
 * 《生活大爆炸》(The Big Bang Theory)
 * 《老友记》(Friends)
 * 《香草天空》 (Vanilla Sky) - 有时候与真爱错过就在一念之差。
+* 《破碎人生》 (Demolition) - 个人觉得非常真实的体现了一个人悲伤至极到脑袋短路是什么状态。
 
-还有一些个人喜欢的Stand Up Comedian，比如George Carlin, Ricky Gervais, Russell Peters, Bill Burr等等。
+<!-- 还有一些个人喜欢的Stand Up Comedian，比如George Carlin, Ricky Gervais, Russell Peters, Bill Burr等等。 -->
 
 一些剧是借由人在无常的命运之下的挣扎来展示人性中的美好或丑陋，另外一些剧是专门戳人类的丑态来惹人发笑。回想起来，心情好的时候，总喜欢看喜剧，笑笑剧中人物的同时也笑笑自己；心情差的时候，会喜欢看些悲剧。
