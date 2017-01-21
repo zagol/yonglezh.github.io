@@ -7,9 +7,8 @@ author: "Yongle Zhang"
 atom-baseurl: "http://yonglezh.github.io"
 disqus: "zagol"
 
-
-pygments: true
 safe: true
 paginate: 16
 auto: true
 
+highlighter: rouge
