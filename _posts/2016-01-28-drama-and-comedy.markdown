@@ -56,6 +56,7 @@ tags: private
 * 《老友记》(Friends)
 * 《香草天空》 (Vanilla Sky) - 有时候与真爱错过就在一念之差。
 * 《破碎人生》 (Demolition) - 个人觉得非常真实的体现了一个人悲伤至极到脑袋短路是什么状态。
+* 《云图》（Cloud Atlas）- 每个人每时每刻的业都在影响着过去和未来自己生活着的世界中的每个人和自己。
 
 <!-- 还有一些个人喜欢的Stand Up Comedian，比如George Carlin, Ricky Gervais, Russell Peters, Bill Burr等等。 -->
 
