@@ -1,5 +1,5 @@
 ---
-title: Past Life
+title: Different Life
 layout: post
 tags: life
 comments: no
