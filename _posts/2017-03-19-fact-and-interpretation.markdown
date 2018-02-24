@@ -21,10 +21,24 @@ There are other very important aspects of our lives, such as how to live a happy
 
 As Bertrand Russell said, scientific method is the procedure to identify facts and the truth that the facts bear out. It usually includes the following steps: 
 
-1. Making observations of phenomenon (facts). A phenomenon is an event that's observable in any manner - something that's observed to occur or exist.  
-2. Formulating hypothesis (potential truth in certain scope) to explain the phenomenon (What is it? Why does it exist? Or why did it happen?). 
+1. Making observations of phenomenon. 
+2. Formulating hypothesis to explain the phenomenon. 
+3. Developing **testable** predictions from the hypothesis. 
+4. Performing **reasonable** experiments repeatedly by different indepedent experimenters. 
+
+To understand how this methodology works and why it works, these steps and terms used in these steps need to be clarified. 
+
+
+1. Making observations of phenomenon (facts). A phenomenon is an event that's observable in any manner - something that's observed to have occurred or exist.  
+2. Formulating hypothesis (potential truth described with clearly defined terms in a clearly defined context or scope) to explain the phenomenon (What is it? Why does it exist? Or why did it happen?). 
 3. Developing **testable** predictions from the hypothesis. 
 4. Performing reasonable (can-be-reasoned-about) experiments repeatedly by different indepedent experimenters. 
+
+
+## Clarification
+
+1. Phenomenon / Fact
+
 
 Clearly defined terms and scope/context. 
 
@@ -35,6 +49,12 @@ Clearly defined terms and scope/context.
 # Epistemology - the fundation of scientific method
 
 What is a fact? What is truth? Can we know truth? What can we know? 
+
+Fact: something that can be repeatedly verified by different entities. "There's no fact, only interpretation." along with Matrix analogy -> true but there's no practical meaning. Fact about the past: eye witnesses (better: who has little self-interest or any other type of bias towards the claim). A unique / fundamental claim bears a larger burden of proof. Any history starts blurring after 50 years. 
+
+Different people see different color -> with some inconsistency that we notice, and more understanding of it, we know that what color we perceive is more relevant to the cells in our eyes. When there's some inconsistency, we develop our understanding that can be verified considering the inconsistency. It's like saying - when we don't see conflict/inconsistency, we treat it as fact, however it's actually always interpretation of some truth we don't know. 
+
+We see things at our level. How do we see things at other levels? There are too many possibilities, how do we know Christian God is the one? 
 
 # Different level of abstractions
 
@@ -69,6 +89,12 @@ Why is it the only way?
 [APPENDIX E: Introduction to the Scientific Method](http://teacher.nsrl.rochester.edu/phy_labs/AppendixE/AppendixE.html)
 
 How to explain the trend that miricles disappearred as modern technology appeared? 
+
+# What is research? 
+
+Research is simply trying to solve a problem that's never been solved before. 
+
+Why there's always opportunities for reseach? The world is envolving. There are new technologies developed every day, and these new technologies open up new opportunities for some unresolved problems, they also bring about new problems to solve. Example? 
 
 <!-- Reason -->
 
@@ -467,3 +493,5 @@ Why it seems to me that a lot of things in Bible is trying to make it easier to 
 I believe in scientific method, but I also believe that Christianity is the thing that I need for me to stick to what I believe. 
 
 I called and you answered. 
+
+Christianity makes people safe to be honest. 
