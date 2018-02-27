@@ -28,6 +28,54 @@ As Bertrand Russell said, scientific method is the procedure to identify facts a
 
 To understand how this methodology works and why it works, these steps and terms used in these steps need to be clarified. 
 
+## Clarifying _making observations of phenomenon_
+
+There are 3 questions to answer in order to clarify step one. 
+
+### What is _phenomenon_? 
+
+Epistemology. 
+
+### What is _observation_? 
+
+Experience. 
+
+### How to _make observations_?
+
+### Why is this _observation_ needed? 
+
+## Clarifying _formulating hypothesis to explain the phenomenon_
+
+### What does it mean to _explain a phenomenon_?
+
+Causal relationship. 
+
+### What is _hypothesis_?
+
+### How to _formulate hypothesis_?
+
+### Why is this _hypothesis_ needed? 
+
+## Clarifying _developing testable predictions from the hypothesis_
+
+### What is _prediction_? 
+
+### Why is _prediction_ needed? 
+
+### What does it mean to be _testable_?
+
+### How to develop testable predictions? 
+
+## Clarifying _performing reasonable experiments repeatedly by different indepedent experimenters_
+
+### What is _experiment_?
+
+### What is _reasonable_?
+
+Can be reasoned about. 
+
+### Why _independent_? 
+
 
 1. Making observations of phenomenon (facts). A phenomenon is an event that's observable in any manner - something that's observed to have occurred or exist.  
 2. Formulating hypothesis (potential truth described with clearly defined terms in a clearly defined context or scope) to explain the phenomenon (What is it? Why does it exist? Or why did it happen?). 
