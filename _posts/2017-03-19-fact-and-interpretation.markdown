@@ -34,7 +34,7 @@ There are 3 questions to answer in order to clarify step one.
 
 ### What is _phenomenon_? 
 
-Epistemology. 
+Epistemology. Facts. 
 
 ### What is _observation_? 
 
