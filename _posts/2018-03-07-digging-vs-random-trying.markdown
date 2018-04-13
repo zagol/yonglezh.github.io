@@ -1,5 +1,3 @@
-
-
 ---
 title: Digging into the Root Cause VS. Random Trying. 
 layout: post
@@ -8,6 +6,8 @@ comments: no
 ---
 
 Digging into the root cause of a problem is better than random trying solutions. 
+
+## Real life example
 
 Today I spent a couple of hours on how to properly set the logging configuration for ZooKeeper 3.5.3-beta. This is what I did. 
 
@@ -19,7 +19,7 @@ Today I spent a couple of hours on how to properly set the logging configuration
 
     I saw in log4j.properties that the correct log file for ZooKeeper is zookeeper-xxx.log (after ignoring it for over an hour). I started searching on google “zookeeper.log not created”. 
 
-    This is the first correct decision I made, i.e., **question & try to understand it in an operational manner instead of making assumptions easily** - what is the Zookeeper log file and do I really have it? Turns out that I didn’t. 
+    This is the first correct decision I made, i.e., **question & try to understand it in an operational manner instead of guessing & making assumptions easily** - what is the Zookeeper log file and do I really have it? Turns out that I didn’t. 
 
 3. Random trying each solution popped up on Google. 
 
@@ -37,7 +37,7 @@ Instead of spending more than 2 hours on trying random answers from google, I co
 
 3. Look into zkServer.sh which is the script used to start ZooKeeper, you can find the real java command to start ZooKeeper, and it does take -Dzookeeper.root.logger=XXX as one of its arguments. 
 
-4. Read zkServer.sh to find where this -Dzookeeper.root.logger is coming from, you’ll see it’s set in zkEnv.sh. **Now you understand the problem**. Problem solved. Change it in zkEnv.sh. 
+4. Read zkServer.sh to find where this -Dzookeeper.root.logger is coming from, you’ll see it’s set in zkEnv.sh. **Now you understand the problem**. Problem solved - change it in zkEnv.sh. 
 
 **This methodology is reasoning - you try to understand the problem before designing a solution according to your understanding of the root cause.** 
 
@@ -47,12 +47,13 @@ Computer science is a great field to apply this methodology. Because computer sc
 
 1. You won't waste time on the "random trying" rabbit hole. 
 
-```
-Random trying solutions, 
--> if no one worked, for each of the solutions that don't work, guess and random try new solutions/adjustments
--> if no one worked, repeat ... 
-```
-If you are lucky, you'll get a solution that works somewhere in this infinite expanding tree.
+    ```
+    Random trying solutions, 
+    -> if no one worked, for each of the solutions that don't work, guess and random try new solutions/adjustments
+    -> if no one worked, repeat ... 
+    ```
+    
+    If you are lucky, you'll get a solution that works somewhere in this infinite expanding tree.
 
 2. You'll have a clear picture of how everything works together in an operational way. After fixing this problem, you’ll learn about Zookeeper, log4j, shell script, java system properties, and how they work together. 
 
