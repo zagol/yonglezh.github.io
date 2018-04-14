@@ -5,6 +5,8 @@ tags: life
 comments: no
 ---
 
+_This post is an example which shows that a good article requires endless refinement no matter how good you feel about it in your early passes. At least this statement is true for me. This post is not a good article. I only did 2 passes. Personally I wonder if I myself could understand it 5 years from now. However, in my first try, I did feel that I was in the zone and wrote down everything perfectly. The next day when I read it, I asked myself - what were you thinking?! The points I wanted to make spread across the article without logic flow connecting them. This article is hard to follow and not logically appealing even for someone with exactly the same experience._
+
 Digging into the root cause of a problem is better than random trying solutions. 
 
 ## Real life example
