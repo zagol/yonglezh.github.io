@@ -26,7 +26,7 @@ As Bertrand Russell said, scientific method is the procedure to identify facts a
 3. Developing **testable** predictions from the hypothesis. 
 4. Performing **reasonable** experiments repeatedly by different indepedent experimenters. 
 
-To understand how this methodology works and why it works, these steps and terms used in these steps need to be clarified. 
+To understand how this methodology works and why it works, these steps and terms used in these steps need to be clarified. (Let's try to avoid meta physics and try to focus on this level of abstraction - influence the world in a practical way.)
 
 ## Clarifying _making observations of phenomenon_
 
