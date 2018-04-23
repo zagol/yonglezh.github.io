@@ -9,6 +9,10 @@ tags:
 
 ---
 
+_I wrote down these a few words when I started realizing that there's something wrong with the way I communicate with people. At that time I only noticed some words which rarely led to meaningful results._ 
+
+_Over the years it became clearer to me that I used to rely much more on emotions rather than logic in my communication. I might write my idea about effective communication under different contexts in another post, but here is where I started._ 
+
 **"反正"**
 WHATEVER - 这意味着说话的人不思考了。
 
