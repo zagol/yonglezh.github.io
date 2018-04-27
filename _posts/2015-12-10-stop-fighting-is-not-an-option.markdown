@@ -6,7 +6,7 @@ tags:
 comments: no
 ---
 
-When I first posted this, I didn't really write much other than the title. I think I was just trying to cheer myself up because I was going through a hard time. But now I think I still agree with it and I'll try to provide some explanation.
+_When I first posted this, I didn't really write much other than this title. I think I was just trying to cheer myself up during a hard time. But now I think I still agree with it and I'll try to provide some explanation._
 
 ## What are we fighting against? 
 
@@ -18,12 +18,18 @@ A lot of things in our lives - illness, poorness, frustration, anxiety, disappoi
 
 It means to survive them, to try our best to function normally despite their influence. 
 
-## Why? 
+## Why? What does it mean to keep functioning?
 
-There were so many times that I wanted to give up. There were so many times that I felt there's no point. 
+There were so many times when I wanted to give up. There were so many times when I felt there's no point. 
 
-BUT THERE IS A POINT. I choose to believe that we do have a purpose born into this world. That is to fully utilize our own talents to make this world a better place. 
+But there is a point. I **choose to** believe that we do have a purpose born into this world. That is to fully utilize our own talents to make this world a better place. 
 
-It's hard to define what "better" is. But that doesn't mean I can use that as an excuse to do whatever satisfies my own interests. At every decision I make, reason whether it benefits the world/people around myself, make the right choice and pay the effort to carry it out. This is definitely a high requirement. I will fall short from time to time, but always try my best. 
+## How? 
 
-At the end of day, there's no universal meaning of life. It's something that works for me. 
+It's hard to define what "better" is. But that doesn't mean that I can use that as an excuse to do whatever satisfies my own interests. 
+
+At every decision I make, try to reason whether it benefits the world & people around myself, make the choice using my best judgment, and pay the effort to carry it out. 
+
+This is a really high goal to shoot for. I will fall short from time to time, but just keep trying. 
+
+At the end of day, there's no universal meaning of life. This is something that released me from bouncing between different pursuits and endlessly reasoning about purpose of life. It helps me focus on doing things, and helps me to carry on with my life despite the circumstances. 
