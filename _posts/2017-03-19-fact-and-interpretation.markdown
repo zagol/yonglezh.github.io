@@ -13,7 +13,7 @@ One important aspect of human beings' lives is to understand the world and to ch
 
 There are other alternatives to achieve the same goal. Some may say [tradition](https://en.wikipedia.org/wiki/Tradition), intuition, or [religion](https://en.wikipedia.org/wiki/Religion). Others may argue that certain religion contains scientific method within it. I'm not capable of giving a clear definition of Religion or one single religion. So in this post I'll only explain **my understanding of scientific method**, instead of reasoning about why to choose it over other alternatives. 
 
-There are other very important aspects of our lives, such as how to live a happy life and how to live in harmony. Personally I believe religion plays a more important role in these aspects. I'll explain my understanding about religion in another post.  
+(Personally I believe that religion plays a more important role in other very important aspects of our lives, such as how to live a happy life and how to live in harmony. I'll explain my understanding about religion in another post.) 
 
 <!-- and why I choose to believe in it. I won't try to explain why I don't choose religion in this aspect of life, because according to my belief in scientific method, there's no scientific way to say religion is wrong at this point in time. -->
 
@@ -36,6 +36,8 @@ There are 3 questions to answer in order to clarify step one.
 
 Epistemology. Facts. 
 
+Something that happened, or something that exists. 
+
 ### What is _observation_? 
 
 Experience. 
@@ -48,7 +50,9 @@ Experience.
 
 ### What does it mean to _explain a phenomenon_?
 
-Causal relationship. 
+Causal relationship. Precise description. 
+
+What is it? Why did it happen? 
 
 ### What is _hypothesis_?
 
