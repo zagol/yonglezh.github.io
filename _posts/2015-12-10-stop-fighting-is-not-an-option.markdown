@@ -22,11 +22,12 @@ It means to survive them, to try our best to function normally despite their inf
 
 There were so many times when I wanted to give up. There were so many times when I felt there's no point. 
 
-But there is a point. I **choose to** believe that we do have a purpose born into this world. That is to fully utilize our own talents to make this world a better place. 
+But there is a point. I **choose to** believe that we do have a purpose born into this world. That is to fully utilize our own talents to to pursue truth and love. Here love doesn't refer to romantic love, but the love with which we can control our own desires and care for other people. 
 
 ## How? 
 
-It's hard to define what "better" is. But that doesn't mean that I can use that as an excuse to do whatever satisfies my own interests. 
+It's not easy to know what are the correct actions to take to pursue truth and love in various contexts and environments. 
+However, that doesn't mean that I can use that as an excuse to do whatever satisfies my own interests. 
 
 At every decision I make, try to reason whether it benefits the world & people around myself, make the choice using my best judgment, and pay the effort to carry it out. 
 
