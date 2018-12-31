@@ -4,6 +4,16 @@ title: When People Talk about Something, They Don't Really Mean It. 在言语背
 categories:
 tags: 
 ---
+Behind the words and how to be genuine. 
+
+1) Tell whether another person is speaking genuinely. 
+2) Tell what are the meanings and reasons behind someone's words. 
+3) Tell whether that person is limited by his experience. 
+4) Why to speak genuinely? What's effective communication? 
+5) To what extent should someone speak genuinely? What topics should a person speak genuinely? Why? 
+6) How to speak genuinely? 
+7) What to do if there are other intentions behind someone's words and you recognize them? 
+
 
 有这么一种情况，当人们说话的时候，他或她想表达的并不是或并不仅仅是话中的意思。
 又分几种情况，第一，说话者有意识的表达了言外之意，希望听话者能理解，但是不管听话者能否理解，说话者都有准备和应对手段；第二，说话者没有意识到自己的言外之意，如果听话者不能理解，会出现自己和对方意料之外的反应。（应该这么划分吗？）
