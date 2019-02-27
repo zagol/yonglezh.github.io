@@ -24,40 +24,46 @@ tags: private
 不过我确实在四姨和姨夫休息之后自己坐在电视前接近两个小时的时间看完了大话西游的上集，并且等到第二天同一时间又顶着四姨温和的抱怨看完了下集。
 当时作为一个9岁孩童对电影的理解早已消失不见，再次观看已经不记得是多久之后的事了。
 
-记录一些能想得起来的曾经很喜欢的电影和电视剧，以及自己对其印象深刻的原因（太多都忘了）。都是一些比较流行的剧了。
+本文只是记录一些能想得起来的曾经很喜欢的电影和电视剧。
 
-* 《九品芝麻官》(Hail the Judge) - 看的时候笑得很high。
-* 《大话西游》(A Chinese Odyssey) - 喜剧部分很搞笑，悲剧部分现在想来觉得虽然最后至尊宝独自一人，但至少他是带着紫霞的爱走下去的。
-* 《活着》(To Live) - 无论怎样被无常的命运残酷的蹂躏，人总是要认真生活下去。
-* 《我和厄尔以及将死的女孩》(Me, Earl, and the Dying Girl) - 想要珍惜的人的逝去才让不懂珍惜自己生命的人了解该如何生活。
-* 《火星救援》(The Martian) - 绝境中对希望的坚持。
+曾一度翻来覆去观看过多遍的：
+
+* 《林肯(2012)》(Lincoln 2012)
+* 《活着》(To Live)
+* 《年轻气盛》(Youth)
+* 《撞车》(Crash)
+* 《云图》（Cloud Atlas）
+* 《龙猫》(My Neighbor Totoro)
+* 《蝙蝠侠：黑暗骑士崛起》(The Dark Knight Rises)
+* 《明日边缘》(Edge of Tomorrow)
+* 《大话西游》(A Chinese Odyssey)
+
+印象颇深的：
+
+* 《魔鬼代言人》(The Devil’s Advocate)
+* 《悲惨世界》(Les misérables)
+* 《安妮霍尔》(Annie Hall)
 * 《肖申克的救赎》(The Shawshank Redemption)
 * 《海上钢琴师》(The Legend of 1900)
-* 《听到涛声》(Ocean Waves) - 青春中懵懂的感情。
-* 《红猪》(Porco Rosso) - 记不清了，似乎是对红猪的人格有所推崇。
-* 《龙猫》(My Neighbor Totoro)
-* 《楚门的世界》(The Truman Show) - 真实的世界是残酷的，但依然比虚假的完美世界要好。
+* 《听到涛声》(Ocean Waves)
+* 《红猪》(Porco Rosso)
 * 《大独裁者》(The Great Dictator)
 * 《摩登时代》(Modern Times)
-* 《蝴蝶效应》(The Butterfly Effect) - 复杂的世界中，世事难以预料，即使有着改变过去的能力也难以获得自己想要的结果，人只能做出自己的选择然后尽力生活下去。
+* 《蝴蝶效应》(The Butterfly Effect) 
+* 《楚门的世界》(The Truman Show)
+* 《九品芝麻官》(Hail the Judge)
 * 《本杰明巴顿奇事》(The Curious Case of Benjamin Button)
-* 《年轻气盛》(Youth) - 几位老人在生命的最后阶段回头看每个人一生中最深刻的欲望，究竟这坚持一生的执念是否值得，电影并没有给出答案。
-* 《安妮霍尔》(Annie Hall)
-* 《撞车》(Crash) - 人并不像自己想象的那样，人并不纯粹，人很难认识和接受真实的自己。
-* 《曾经》(Once) - 一场邂逅，虽然没有在一起，但也没有什么遗憾。
-* 《遗愿清单》(The Bucket List)
-* 《蝙蝠侠：黑暗骑士崛起》(The Dark Knight Rises) - 无缘由的纯粹的恶。
+* 《曾经》(Once) 
 * 《疯狂的石头》(Crazy Stone)
-* 《悲惨世界》(Les misérables) - 彻底的无私牺牲。
-* 《南方公园》(South Park: Bigger Longer & Uncut)
-* 《黑镜》(Black Mirror) - 荒诞设定下的真实的人性。
+
+有趣的电视剧：
+
+* 《黑镜》(Black Mirror) 第一、二季
 * 《菜鸟间谍》(Spy)
 * 《生活大爆炸》(The Big Bang Theory)
 * 《老友记》(Friends)
-* 《香草天空》 (Vanilla Sky) - 有时候与真爱错过就在一念之差。
-* 《破碎人生》 (Demolition) - 个人觉得非常真实的体现了一个人悲伤至极到脑袋短路是什么状态。
-* 《云图》（Cloud Atlas）- 每个人每时每刻的业都在影响着过去和未来自己生活着的世界中的每个人和自己。
+* 《摩登家庭》(Modern Family)
 
 <!-- 还有一些个人喜欢的Stand Up Comedian，比如George Carlin, Ricky Gervais, Russell Peters, Bill Burr等等。 -->
 
-一些剧是借由人在无常的命运之下的挣扎来展示人性中的美好或丑陋，另外一些剧是专门戳人类的丑态来惹人发笑。回想起来，心情好的时候，总喜欢看喜剧，笑笑剧中人物的同时也笑笑自己；心情差的时候，会喜欢看些悲剧。
+一些剧是借由人在无常的命运之下的奋斗和挣扎来展示人性的美好、丑陋、或复杂，另外一些剧是专门戳人类的丑态来惹人发笑。回想起来，心情好的时候，总喜欢看喜剧，笑笑剧中人物的同时也笑笑自己；心情差的时候，会喜欢看些悲剧。
