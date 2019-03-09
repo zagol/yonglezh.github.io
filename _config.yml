@@ -1,9 +1,9 @@
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
-name: "Yongle Zhang"
+name: "Yongle"
 
-author: "Yongle Zhang"
+author: "Yongle"
 atom-baseurl: "http://yonglezh.github.io"
 disqus: "zagol"
 
